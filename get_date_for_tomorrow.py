@@ -59,8 +59,8 @@ if options:
 
         print('Message send!')
         print('My work here is done.')
-    except Exception:
-        print('Failed to send message')
+    except Exception as e:
+        print('Failed to send message: ', e)
         print('Please check the configuration')
         exit(1)
 
