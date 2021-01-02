@@ -9,4 +9,6 @@ when an appointment is available in your selected window.
 ## Usage
   - Downlaod the script and config file. 
   - Set your time window in the configuration file.
-  - Run the script with cron/systemd-timers ever so often and wait for the email
+  - Run the script with cron/systemd-timers ever so often and wait for the email.
+  - If the emailed appointement fits your needs, login to the SNCT Website and get it.
+  - Go one with you life.
